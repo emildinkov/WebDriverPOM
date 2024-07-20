@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POMExercise", "POMExercise\POMExercise.csproj", "{4AA323D0-C9C0-4AB9-8B5A-9F209D446BB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AA323D0-C9C0-4AB9-8B5A-9F209D446BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA323D0-C9C0-4AB9-8B5A-9F209D446BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA323D0-C9C0-4AB9-8B5A-9F209D446BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA323D0-C9C0-4AB9-8B5A-9F209D446BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DF7ED29-5290-4372-ADF8-25B737BA47C1}
+	EndGlobalSection
+EndGlobal
